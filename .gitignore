@@ -1,0 +1,9 @@
+.DS_Store
+work/vendor/
+work/source/
+work/scenes/
+work/voice_segments/
+work/check_*.png
+work/final_check_*.png
+work/voiceover.*
+work/scenes.txt
